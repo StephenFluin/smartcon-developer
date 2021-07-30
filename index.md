@@ -34,7 +34,7 @@ This is the developer track schedule. See the [full event schedule](https://hopi
 | 1:00 PM EDT	| Hitchhikers Guide to the EVM | Alex Roan
 | 1:20 PM EDT	| Q&A with Speakers | 
 | 1:40 PM EDT	| Building Secure Smart Contracts | Harry Pappacharissiou
-| 2:00 PM EDT	| Portable identities as a gateway to a more open world | Alessandro Perico, Milena Dobreva
+| 2:00 PM EDT	| Portable identities as a gateway to a more open world | Alessandro Perico, Milena Monova
 | 2:20 PM EDT	| How to Become a Smart Contract Developer | Zak Ayesh
 | 2:40 PM EDT	| Q&A with Speakers  | 
 | 3:00 PM EDT	| Next-Gen Governance: How to get there? | Kaue Cano
