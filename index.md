@@ -3,7 +3,7 @@ layout: main.liquid
 section: main
 title: "SmartCon Developer Home 2021"
 ---
-<div style="width:100%;height:400px;background-image:url('https://assets.website-files.com/5ecd2e386705c9f699774c3f/60ba034259eb410fc292568f_scs1-opengraph.jpg');background-size:contain;background-position:center;background-repeat:no-repeat;margin-bottom:32px;"></div>
+<div style="width:100%;height:400px;background-image:url('/images/summit.jpg');background-size:contain;background-position:center;background-repeat:no-repeat;margin-bottom:32px;"></div>
 
 **SmartCon Developer** is a track within the broader [Smart Contract Summit](https://www.smartcontractsummit.io/) focused exclusively on Blockchain and Smart Contract developers.
 
