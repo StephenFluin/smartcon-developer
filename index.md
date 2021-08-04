@@ -41,7 +41,7 @@ This is the developer track schedule. See the [full event schedule](https://hopi
 | 3:20 PM EDT	| What's New in Web3.JS | Gregory Markou, Wyatt Barnes
 | 3:40 PM EDT	| Q&A with Speakers  | 
 | 4:00 PM EDT	| Smart Contract Developer Speedrun | 
-| 4:25 PM EDT	| SmartCon Developer Closing Ceremony | 
+| 4:30 PM EDT	| SmartCon Developer Closing Ceremony | 
 
 
 
