@@ -7,7 +7,7 @@ title: "SmartCon Developer Home 2021"
 
 **SmartCon Developer** is a track within the broader [Smart Contract Summit](https://www.smartcontractsummit.io/) focused exclusively on Blockchain and Smart Contract developers.
 
-Tune in on August 6th starting at [9:00AM EDT](https://www.inyourowntime.zone/2021-08-06_09.00_America.New_York) to our livestream. We've got amazing speakers from around the globe talking about the biggest topics relevant to developers in our industry. Get updates from the Solidity team, Etherscan, Alchemy, Web3.JS, and much more.
+Tune in on August 6th starting at [9:00AM EDT](https://www.inyourowntime.zone/2021-08-06_09.00_America.New_York) to our livestream. We've got amazing speakers from around the globe talking about the biggest topics relevant to developers in our industry. Get updates from Etherscan, Alchemy, Web3.JS, and much more.
 
 <div class="remix-callout">
     <a href="https://hopin.com/events/smart-contract-summit-1?ref=9612bdfe2e85" class="cl-button--ghost solidity-tracked">Get Your Ticket</a>
@@ -39,10 +39,9 @@ This is the developer track schedule. See the [full event schedule](https://hopi
 | 2:40 PM EDT	| Q&A with Speakers  | 
 | 3:00 PM EDT	| Next-Gen Governance: How to get there? | Kaue Cano
 | 3:20 PM EDT	| What's New in Web3.JS | Gregory Markou, Wyatt Barnes
-| 3:40 PM EDT	| What's New in Solidity | 
-| 4:00 PM EDT	| Q&A with Speakers  | 
-| 4:20 PM EDT	| Special Speaker / Event | To Be Announced
-| 4:45 PM EDT	| Wrap-Up | 
+| 3:40 PM EDT	| Q&A with Speakers  | 
+| 4:00 PM EDT	| Smart Contract Developer Speedrun | To Be Announced
+| 4:25 PM EDT	| SmartCon Developer Closing Ceremony | 
 
 
 
