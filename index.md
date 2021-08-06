@@ -10,7 +10,7 @@ title: "SmartCon Developer Home 2021"
 Tune in on August 6th starting at [9:00AM EDT](https://www.inyourowntime.zone/2021-08-06_09.00_America.New_York) to our livestream. We've got amazing speakers from around the globe talking about the biggest topics relevant to developers in our industry. Get updates from Etherscan, Alchemy, Web3.JS, and much more.
 
 <div class="remix-callout">
-    <a href="https://hopin.com/events/smart-contract-summit-1?ref=9612bdfe2e85" class="cl-button--ghost solidity-tracked">Get Your Ticket</a>
+    <a href="https://hopin.com/events/smart-contract-summit-1?ref=9612bdfe2e85" class="cl-button--ghost solidity-tracked">Watch Live on Hopin</a>
 </div>
 
 <style>td {padding: 16px 8px;}</style>
@@ -46,5 +46,5 @@ This is the developer track schedule. See the [full event schedule](https://hopi
 
 
 <div class="remix-callout">
-    <a href="https://hopin.com/events/smart-contract-summit-1?ref=9612bdfe2e85" class="cl-button--ghost solidity-tracked">Register</a>
+    <a href="https://app.hopin.com/events/smart-contract-summit-1/stages/a777bae5-159d-4dc6-9f54-60b3cec473f1" class="cl-button--ghost solidity-tracked">Watch Live on Hopin</a>
 </div>
